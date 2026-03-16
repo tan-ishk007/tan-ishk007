@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Tanishk Gupta:
 💻 I'm currently pursuing CS Engineering @NIT_Allahabad.<br>🕵🏻‍♂️ I'm currently solving DSA problems @LeetCode and<br>  competitive programming problems @CodeForces.<br>➕ I love Mathematics and it's my favourite subject.<br>🦾 I'm currently exploring AI and Machine Learning.<br>🙃 Fun Fact : I haven't talk to a girl since almost 8-9 years.<br>DONE:<br>Almost 170 Questions on LeetCode.<br>Got 9.33 CPI in my first semester.<br><br>Trying to live happily😊
 
 
