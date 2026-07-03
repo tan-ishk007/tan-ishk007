@@ -1,39 +1,46 @@
-<h1 align="center">Hi 👋, I'm Tanishk</h1>
+<div align="center">
 
-<h3 align="center">
-Trying to live happily 😊
-</h3>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="35" /> Hey, I'm **Tanishk Gupta**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Mathematics+Enthusiast" />
+
+<img src="https://komarev.com/ghpvc/?username=tan-ishk007&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 💫 About Me
 
-- 💻 Pursuing **B.Tech in Computer Science & Engineering** at **MNNIT Allahabad**.
-- 🌱 Currently learning **Full Stack Web Development** from free resources.
-- 💡 Solving **DSA** on **LeetCode** and doing **Competitive Programming** on **Codeforces**.
-- 🤖 Exploring **Artificial Intelligence** and **Machine Learning**.
-- ➕ Mathematics is my favourite subject.
+🎓 **B.Tech in Computer Science & Engineering** at **MNNIT Allahabad**
+
+- 💻 Learning **Full Stack Web Development**
+- ⚡ Solving **DSA** on **LeetCode**
+- 🏆 Practicing **Competitive Programming** on **Codeforces**
+- 🤖 Exploring **Artificial Intelligence** & **Machine Learning**
+- ➕ Mathematics is my favourite subject
 - 📚 **CPI:** **9.11 / 10.0** *(First Year)*
+- 😊 Trying to live happily.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/tanishk-gupta-168506375" target="_blank">
+<p align="center">
+
+<a href="https://linkedin.com/in/tanishk-gupta-168506375">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:guptatanishk007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/tan_ishk_007/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://codeforces.com/profile/tan__ishk__007" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 </p>
 
@@ -41,7 +48,7 @@ Trying to live happily 😊
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&theme=dark"/>
 
@@ -51,19 +58,19 @@ Trying to live happily 😊
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tan-ishk007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tan-ishk007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ishk007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ishk007&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=tan-ishk007&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -77,8 +84,30 @@ Trying to live happily 😊
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tan-ishk007&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tan-ishk007&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
+
+---
+
+## ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep learning, keep building, keep growing."* 🚀
+
+</div>
