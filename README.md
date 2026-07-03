@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently pursuing CS Engineering @NIT_Allahabad.<br>🕵🏻‍♂️ I'm currently doing Web Development from free resources, solving DSA problems @LeetCode and<br>  competitive programming problems @CodeForces.<br>➕ I love Mathematics and it's my favourite subject.<br>🦾 I'm currently exploring AI and Machine Learning.<br>DONE:<br>Cumulative Performance Index (CPI): 9.11/10.0 (1st Year)<br><br>Trying to live happily😊
+💻 I'm currently pursuing CS Engineering @NIT_Allahabad.<br>🕵🏻‍♂️ I'm currently doing Web Development from free resources, solving DSA problems @LeetCode and<br>  competitive programming problems @CodeForces.<br>➕ I love Mathematics and it's my favourite subject.<br>🦾 I'm currently exploring AI and Machine Learning.<br>📚Cumulative Performance Index (CPI): 9.11/10.0 (1st Year)<br>Trying to live happily😊
 
 
 ## 🌐 Socials:
