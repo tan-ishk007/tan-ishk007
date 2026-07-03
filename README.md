@@ -1,7 +1,6 @@
 <div align="center">
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="35" /> Hey, I'm **Tanishk Gupta**
 
-#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey, I'm **Tanishk Gupta**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="35" /> Hey, I'm **Tanishk Gupta**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Mathematics+Enthusiast" />
 
@@ -36,13 +35,15 @@
 <a href="mailto:guptatanishk007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/tan_ishk_007/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/profile/tan__ishk__007" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
+
 </p>
 
 ---
