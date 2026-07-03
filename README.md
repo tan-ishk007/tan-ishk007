@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="35" /> Hey, I'm **Tanishk Gupta**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey, I'm **Tanishk Gupta**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Mathematics+Enthusiast" />
 
