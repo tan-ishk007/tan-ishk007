@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:38bdf8,100:1e3a8a&height=120&section=header"/>
 
-# Tanishk Gupta
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bank+Gothic&weight=800&size=50&letterSpacing=medium&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Tanishk+Gupta)](https://git.io/typing-svg)
 
 ### CSE @ MNNIT Allahabad • Full Stack Developer • Competitive Programmer
 
