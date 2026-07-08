@@ -56,7 +56,46 @@
 
 </div>
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 StudentHub
+
+A full-stack academic resource-sharing platform where students can upload, organize, and discover notes, PDFs, and previous-year papers by semester and subject.
+
+**Tech:** Node.js • Express.js • MongoDB • Mongoose • EJS • Bootstrap • Cloudinary • GSAP
+
+- Built secure authentication with bcrypt and session-based login
+- Implemented resource uploads with Cloudinary integration and ownership-based access control
+- Developed admin privileges, profile management, flash messaging, validation, and responsive UI
+- Added GSAP-powered animations for a polished user experience
+
+[![Live](https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=render&logoColor=white)](https://studenthub-4io3.onrender.com)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tan-ishk007/studenthub)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 ReadmeForge
+
+AI-powered GitHub README generator for creating professional GitHub Profile and Repository READMEs with live preview.
+
+**Tech:** HTML • CSS • JavaScript • GitHub REST API • Markdown
+
+- Generates GitHub Profile READMEs with stats cards, badges, typing animations, and social links
+- AI-assisted Repository README generation with modern documentation structure
+- Live GitHub-flavored Markdown preview with one-click copy
+- Repository import using GitHub API and automatic badge generation
+
+[![Live](https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://tan-ishk007.github.io/readme-forge/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tan-ishk007/readme-forge)
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
