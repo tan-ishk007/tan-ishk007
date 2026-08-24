@@ -1,0 +1,46 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">StudentHub project preview</title>
+  <desc id="desc">A dark academic resource-sharing dashboard showing subjects, semesters, and document cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0C2941"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7DD3FC"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="460" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="10" r="220" fill="#0EA5E9" fill-opacity=".08"/>
+  <text x="54" y="58" fill="#7DD3FC" font-family="Courier New, monospace" font-size="15" letter-spacing="3">01 / STUDENTHUB</text>
+  <text x="54" y="98" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Find the right resource faster.</text>
+  <text x="54" y="127" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Academic notes, PDFs, and previous-year papers — organized by context.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="54" y="166" width="1092" height="238" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".25"/>
+    <rect x="54" y="166" width="208" height="238" rx="16" fill="#0B2135"/>
+    <text x="82" y="206" fill="#CBD5E1" font-family="Courier New, monospace" font-size="12" letter-spacing="2">WORKSPACE</text>
+    <text x="82" y="244" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Semester 04</text>
+    <text x="82" y="280" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="14">Data Structures</text>
+    <text x="82" y="310" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">Operating Systems</text>
+    <text x="82" y="340" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">Computer Networks</text>
+    <rect x="82" y="364" width="92" height="4" rx="2" fill="url(#accent)"/>
+
+    <text x="304" y="206" fill="#CBD5E1" font-family="Courier New, monospace" font-size="12" letter-spacing="2">RECENT RESOURCES</text>
+    <rect x="304" y="228" width="238" height="140" rx="12" fill="#13283B" stroke="#38BDF8" stroke-opacity=".16"/>
+    <rect x="326" y="252" width="34" height="42" rx="6" fill="#0EA5E9" fill-opacity=".18" stroke="#38BDF8" stroke-opacity=".55"/>
+    <path d="M337 262H350M337 272H350M337 282H346" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round"/>
+    <text x="378" y="263" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">DSA Notes</text>
+    <text x="378" y="286" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12">PDF · 2.4 MB</text>
+    <text x="326" y="340" fill="#7DD3FC" font-family="Courier New, monospace" font-size="11">uploaded by you</text>
+
+    <rect x="566" y="228" width="238" height="140" rx="12" fill="#13283B" stroke="#38BDF8" stroke-opacity=".16"/>
+    <rect x="588" y="252" width="34" height="42" rx="6" fill="#0EA5E9" fill-opacity=".18" stroke="#38BDF8" stroke-opacity=".55"/>
+    <path d="M599 262H612M599 272H612M599 282H608" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round"/>
+    <text x="640" y="263" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">OS Papers</text>
+    <text x="640" y="286" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12">PDF · 1.1 MB</text>
+    <text x="588" y="340" fill="#7DD3FC" font-family="Courier New, monospace" font-size="11">exam archive</text>
+
+    <rect x="828" y="228" width="288" height="140" rx="12" fill="#13283B" stroke="#38BDF8" stroke-opacity=".16"/>
+    <text x="854" y="264" fill="#CBD5E1" font-family="Courier New, monospace" font-size="11" letter-spacing="1">STACK</text>
+    <text x="854" y="298" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="15">Node.js · Express</text>
+    <text x="854" y="324" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="15">MongoDB · Cloudinary</text>
+    <text x="854" y="350" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="13">auth · ownership · validation</text>
+  </g>
+</svg>

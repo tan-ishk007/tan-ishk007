@@ -1,0 +1,5 @@
+Visual QA finding: The initial SVG header rendered text as tofu boxes in the lightweight viewer because its font stack was not reliably supported. The project now retains the SVG source for editing but uses freshly rendered PNG assets in the README. The corrected PNG header was re-inspected after moving the identity line down; the monogram, tagline, metadata line, status block, grid, and curves are readable and visually separated.
+
+Project-card QA: The StudentHub and ReadmeForge PNGs were inspected at full size. Both have clear title hierarchy, readable subtitles, strong contrast, coherent midnight/cyan palette, and compact interface motifs that communicate the project purpose without pretending to be literal screenshots.
+
+Portfolio-card QA: The Advanced Portfolio visual reads as a darker, motion-oriented evolution, while the Personal Portfolio visual intentionally shifts to a lighter, structure-first presentation. Both are readable and distinct at full size and maintain shared typography, spacing, and cyan accent logic.
