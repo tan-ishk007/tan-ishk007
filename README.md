@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/tanishk-gupta-168506375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:guptatanishk007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=tan-ishk007&style=flat-square&color=2563eb" alt="Profile views" />
 
 </div>
 
